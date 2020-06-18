@@ -1,0 +1,21 @@
+E:\LuuDuLieuSinhVien\PVLB_Buoi4_BT_AppSmart\PVLB_Buoi4_BT_AppSmart\bin\Debug\PVLB_Buoi4_BT_AppSmart.exe.config
+E:\LuuDuLieuSinhVien\PVLB_Buoi4_BT_AppSmart\PVLB_Buoi4_BT_AppSmart\obj\Debug\PVLB_Buoi4_BT_AppSmart.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\PVLB_Buoi4_BT_AppSmart\PVLB_Buoi4_BT_AppSmart\obj\Debug\PVLB_Buoi4_BT_AppSmart.Form1.resources
+E:\LuuDuLieuSinhVien\PVLB_Buoi4_BT_AppSmart\PVLB_Buoi4_BT_AppSmart\obj\Debug\PVLB_Buoi4_BT_AppSmart.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\PVLB_Buoi4_BT_AppSmart\PVLB_Buoi4_BT_AppSmart\obj\Debug\PVLB_Buoi4_BT_AppSmart.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\PVLB_Buoi4_BT_AppSmart\PVLB_Buoi4_BT_AppSmart\bin\Debug\PVLB_Buoi4_BT_AppSmart.exe
+E:\LuuDuLieuSinhVien\PVLB_Buoi4_BT_AppSmart\PVLB_Buoi4_BT_AppSmart\bin\Debug\PVLB_Buoi4_BT_AppSmart.pdb
+E:\LuuDuLieuSinhVien\PVLB_Buoi4_BT_AppSmart\PVLB_Buoi4_BT_AppSmart\obj\Debug\PVLB_Buoi4_BT_AppSmart.exe
+E:\LuuDuLieuSinhVien\PVLB_Buoi4_BT_AppSmart\PVLB_Buoi4_BT_AppSmart\obj\Debug\PVLB_Buoi4_BT_AppSmart.pdb
+E:\LuuDuLieuSinhVien\PVLB_Buoi4_BT_AppSmart\PVLB_Buoi4_BT_AppSmart\obj\Debug\PVLB_Buoi4_BT_AppSmart.RegisterForm.resources
+C:\Users\Lenovo\Downloads\buoi 4\buoi 4\PVLB_Buoi4_BT_AppSmart\PVLB_Buoi4_BT_AppSmart\bin\Debug\PVLB_Buoi4_BT_AppSmart.exe.config
+C:\Users\Lenovo\Downloads\buoi 4\buoi 4\PVLB_Buoi4_BT_AppSmart\PVLB_Buoi4_BT_AppSmart\bin\Debug\PVLB_Buoi4_BT_AppSmart.exe
+C:\Users\Lenovo\Downloads\buoi 4\buoi 4\PVLB_Buoi4_BT_AppSmart\PVLB_Buoi4_BT_AppSmart\bin\Debug\PVLB_Buoi4_BT_AppSmart.pdb
+C:\Users\Lenovo\Downloads\buoi 4\buoi 4\PVLB_Buoi4_BT_AppSmart\PVLB_Buoi4_BT_AppSmart\obj\Debug\PVLB_Buoi4_BT_AppSmart.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\buoi 4\buoi 4\PVLB_Buoi4_BT_AppSmart\PVLB_Buoi4_BT_AppSmart\obj\Debug\PVLB_Buoi4_BT_AppSmart.Form1.resources
+C:\Users\Lenovo\Downloads\buoi 4\buoi 4\PVLB_Buoi4_BT_AppSmart\PVLB_Buoi4_BT_AppSmart\obj\Debug\PVLB_Buoi4_BT_AppSmart.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\buoi 4\buoi 4\PVLB_Buoi4_BT_AppSmart\PVLB_Buoi4_BT_AppSmart\obj\Debug\PVLB_Buoi4_BT_AppSmart.RegisterForm.resources
+C:\Users\Lenovo\Downloads\buoi 4\buoi 4\PVLB_Buoi4_BT_AppSmart\PVLB_Buoi4_BT_AppSmart\obj\Debug\PVLB_Buoi4_BT_AppSmart.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\buoi 4\buoi 4\PVLB_Buoi4_BT_AppSmart\PVLB_Buoi4_BT_AppSmart\obj\Debug\PVLB_Buoi4_BT_AppSmart.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\buoi 4\buoi 4\PVLB_Buoi4_BT_AppSmart\PVLB_Buoi4_BT_AppSmart\obj\Debug\PVLB_Buoi4_BT_AppSmart.exe
+C:\Users\Lenovo\Downloads\buoi 4\buoi 4\PVLB_Buoi4_BT_AppSmart\PVLB_Buoi4_BT_AppSmart\obj\Debug\PVLB_Buoi4_BT_AppSmart.pdb
